@@ -1,5 +1,6 @@
 //概述
 /*
+廖雪峰的官方网站教程
 JavaScript代码可以嵌入到网页任何地方
 通常放在<head>中 
 <script>...</script>

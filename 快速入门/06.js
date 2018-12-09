@@ -46,3 +46,10 @@ while(n>0){
     n=n-2;
 }
 x;
+
+
+var n=0;
+do{
+    n=n+1;
+}while(n<100);
+n;
